@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViratDhama01
 - 👀 I’m interested in ... learning new thing's 
-- 🌱 I’m currently learning ... c language 
+- 🌱 I’m currently learning ... Web Development 
 - 💞️ I’m looking to collaborate on ...IT projects 
 - 📫 How to reach me ... virat.dhama01@gmail.com
 
