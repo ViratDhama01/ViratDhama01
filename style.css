@@ -1,0 +1,34 @@
+html{
+    background-color: black;
+}
+h1{
+text-transform: uppercase;
+color: white;
+}
+
+.poster{
+    width: 100%;
+    margin-top: 5px;
+    margin: left 5px;
+    margin-right: 5px;
+    color: white;
+    font-family:"Libre Baskerville", serif;
+text-align: center;
+}
+
+.me{
+    border: 10px solid rgb(37, 29, 29);
+    width: 35%;
+    border-style: double;
+}
+
+.me2{
+    border: 10px solid rgb(37, 29, 29); 
+    width: 25%;
+    border-style: double;
+}
+.me1{
+    border: 10px solid rgb(37, 29, 29);
+    width: 25%;
+    border-style: double;
+}
